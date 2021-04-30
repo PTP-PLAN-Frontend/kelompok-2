@@ -28,7 +28,7 @@ function App() {
   return (
     <Router>
       <div className="App">
-      <section>
+     
       <Navbar className="navbar" expand="lg" fixed="top">
         <Navbar.Brand>
               <img
@@ -68,8 +68,6 @@ function App() {
           </Col>
         </Row>
       </Container>
-      </section>
-     
   
       <Switch>
         <Route exact path="/"><Home /> </Route>

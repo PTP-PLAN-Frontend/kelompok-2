@@ -1,0 +1,10 @@
+.container-about {
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.image {
+    width: 80%;
+    
+}
